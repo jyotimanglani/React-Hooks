@@ -18,7 +18,9 @@ h2{
   margin-left: 20px;
 }
 
-
+li{
+  color: white;
+}
 
 button{
   background-color: white;
