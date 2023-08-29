@@ -1,5 +1,6 @@
 *{
   box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 body{
@@ -28,4 +29,9 @@ button{
   font-weight: 700;
   cursor: pointer;
   margin: 10px;
+}
+
+input{
+  margin: 10px;
+  padding: 5px;
 }
