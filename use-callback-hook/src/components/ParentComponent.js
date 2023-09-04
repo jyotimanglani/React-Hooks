@@ -15,6 +15,8 @@ const incrementSalary = useCallback(() => {
         setSalary(salary + 1000)
     },[salary])
 
+//useCallback hook is used for performance optimization
+
 
   return (
     <div>
